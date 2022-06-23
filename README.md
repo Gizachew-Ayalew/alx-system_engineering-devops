@@ -1,1 +1,1 @@
-script that switches the current user to the user
+prints all the groups the current user is part of
